@@ -1,1 +1,1 @@
-cnVuc3RyaW5nKCJwcmludChcIkhlbGxvIGZyb20gdGhlIHZvaWQgdHdlcndheVwiKSIp
+print("GBattle DRM OK")
